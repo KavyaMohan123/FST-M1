@@ -1,0 +1,9 @@
+{
+  "id": 1201,
+  "username": "preethiA",
+  "firstName": "preethi",
+  "lastName": "reddy",
+  "email": "preethireddy@mail.com",
+  "password": "p@ssword123",
+  "phone": "9812863450"
+}
